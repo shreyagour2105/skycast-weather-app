@@ -59,4 +59,4 @@ Weather and geocoding data are provided by
 
 ## Author
 
-Shreya Gour
+Shreya S Gour
