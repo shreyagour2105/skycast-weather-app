@@ -1,8 +1,6 @@
 # SkyCast ☀️ Weather Forecast App
 
-A clean, responsive weather dashboard built with HTML, CSS, and
-vanilla JavaScript. Get current weather and a five-day forecast for
-cities around the world.
+A clean, responsive weather dashboard built with HTML, CSS, and vanilla JavaScript. Get current weather and a five-day forecast for cities around the world.
 
 ## Features
 
@@ -31,8 +29,7 @@ cities around the world.
 3. Run it with the Live Server extension.
 4. Search for a city.
 
-An internet connection is required to retrieve live weather data.
-No API key is required for the public Open-Meteo endpoints used here.
+An internet connection is required to retrieve live weather data. No API key is required for the public Open-Meteo endpoints used here.
 
 ## Project Structure
 
@@ -47,8 +44,7 @@ skycast-weather-app/
 
 ## Data Source
 
-Weather and geocoding data are provided by
-[Open-Meteo](https://open-meteo.com/).
+Weather and geocoding data are provided by [Open-Meteo](https://open-meteo.com/).
 
 ## Future Improvements
 
@@ -59,4 +55,8 @@ Weather and geocoding data are provided by
 
 ## Author
 
-Shreya S Gour
+Shreya Gour
+
+## Live Demo
+
+[Open SkyCast Weather App](https://shreyagour2105.github.io/skycast-weather-app/)
